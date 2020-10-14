@@ -4,7 +4,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/cgruver/knative-disconnected-install.git
-cd opendatahub-disconnected-install
+cd knative-disconnected-install
 ```
 
 ### Make the Knative images available to the OpenShift cluster:
